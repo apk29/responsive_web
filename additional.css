@@ -59,7 +59,7 @@ body {
   }
 }@media screen and (min-width: 679px) and (max-width: 767px){
   .weather {
-    display: hidden;
+
 }
 
 @media screen and (min-width: 320px) and (max-width: 1318px){
@@ -81,7 +81,7 @@ body {
     padding: 0;
   }
 }
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 770px) {
   .scores__table .scores__date {
     display: none;
   }
